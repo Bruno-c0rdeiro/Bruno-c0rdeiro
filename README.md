@@ -3,7 +3,7 @@
 
 ![oprogramadorbrabo GitHub stats](https://github-readme-stats.vercel.app/api?username=oprogramadorbrabo&show_icons=true&theme=dark)
 
--sou programador javascript </br>
+-sou programador </br>
 -possuo conhecimentos em:
 
 
