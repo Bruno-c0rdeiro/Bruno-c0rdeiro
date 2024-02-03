@@ -1,7 +1,7 @@
 # Eae galera Blz eu sou o Bruno!!
 <a href="https://www.linkedin.com/in/bruno-cordeiro-a02518264" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>                
 
-![Bruno-c0rdeiro GitHub stats](https://github-readme-stats.vercel.app/api?username=oprogramadorbrabo&show_icons=true&theme=dark)
+![Bruno-c0rdeiro GitHub stats](https://github-readme-stats.vercel.app/api?username=Bruno-c0rdeiro&show_icons=true&theme=dark)
 
 -sou programador </br>
 -possuo conhecimentos em:
