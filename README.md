@@ -1,4 +1,5 @@
 # Eae galera Blz eu sou o Bruno!!
+
 <a href="https://www.linkedin.com/in/bruno-cordeiro-a02518264" target="_blank">
             
    <img width="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original-wordmark.svg" />
@@ -8,6 +9,10 @@
 ![Bruno-c0rdeiro GitHub stats](https://github-readme-stats.vercel.app/api?username=Bruno-c0rdeiro&show_icons=true&theme=dark)
 
  </br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bruno-c0rdeiro&theme=tokyonight&layout=compact&custom_title=Tecnologias_Mais_Ultilizadas"/>
+
+
+ 
 -Linguagens e Técnologias:
 
 
