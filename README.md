@@ -1,15 +1,39 @@
 # Eae galera Blz eu sou o Bruno!!
-<a href="https://www.linkedin.com/in/bruno-cordeiro-a02518264" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>                
+<a href="https://www.linkedin.com/in/bruno-cordeiro-a02518264" target="_blank">
+            
+   <img width="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original-wordmark.svg" />
+          
+   </a>                
 
 ![Bruno-c0rdeiro GitHub stats](https://github-readme-stats.vercel.app/api?username=Bruno-c0rdeiro&show_icons=true&theme=dark)
 
--sou programador </br>
--possuo conhecimentos em:
+ </br>
+-Linguagens e Técnologias:
 
 
-<div style="display: flex" > <img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
- <img  align="center" alt="HTML5"alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> 
- <img  align="center" alt="javaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> </div>
-</br>
--frameworks que eu ultilizo:  
-<div style="display: inline_block" > <img  alt="taillwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /></div> 
+<div style="display: flex"  >
+
+ <img align="center" width="70px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
+ 
+ <img align="center" width="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" />
+                   
+ <img align="center" width="50px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+        
+ 
+ <img align="center" alt="React" width="60px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+ 
+ <img align="center" alt="React" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
+          
+          
+<img align="center" alt="React" width="50px"   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
+
+<img align="center" alt="React" width="50px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" />
+
+<img align="center" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+                  
+<img   align="center" alt="React" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+         
+<img   align="center" alt="React" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
+          
+          
+ </div>
