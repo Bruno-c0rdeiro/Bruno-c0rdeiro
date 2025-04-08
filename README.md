@@ -10,10 +10,11 @@
 
 
 
+##
 
 
  
--Linguagens e Técnologias:
+-Conhecimentos:
 
 
 <div style="display: flex"  >
