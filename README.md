@@ -14,7 +14,7 @@
 
 
  
--Conhecimentos:
+-Languagens and Tools:
 
 
 <div style="display: flex"  >
